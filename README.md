@@ -25,7 +25,7 @@ Screenshots of the website:
 Starting code was provided by Horiseon Social Solutions, Inc. 
 
 # License
-All licenses belong to Hoiseon Social Solutions, Inc.
+All licenses belong to Horiseon Social Solutions, Inc.
 
 # Tests
 To test content, click the links in the navigation section within the header. Links will take you to the described section of the content.
